@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css?family=Outfit");
+
+body { /* Background of whole page */
+    background-color: hsl(212, 45%, 89%);
+    font-family: "Outfit";
+}
+#qr-code {
+    width: 15rem;
+    border-radius: 3%;
+    margin: auto;
+}
+#QR {
+    display:flex;
+    flex-direction: column;
+    align-content: flex-end;
+    position: absolute; /*will start positioned relative to first parent element*/
+    top: 50%; /* 50% of screen size from top */
+    left: 50%; /* 50% from the left of screen size */
+    transform: translate(-50%, -50%); /* moves children left by 50% along x-axis, moves children 50% up along y-axis */
+}
+#QR-container {
+    position: relative;
+    text-align: center;
+    padding: 1rem;
+    width: 15rem;
+    height: 25rem;
+    margin: auto; /** Centers Container **/
+    background: white;
+    border-radius: 5%;
+    box-shadow: 0rem 1rem .8rem hsl(214, 100%, 1%, 5%); /* Horizontal offset, vertical offset, blur radius, shadow color */
+}
+h1 {
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+    font-size: 20px;
+}
+p {
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+}
