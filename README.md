@@ -55,4 +55,4 @@ One of the things I want to add is a "dark" and "light" mode button that will ch
 
 - Frontend Mentor - [@codeitkay](https://www.frontendmentor.io/profile/codeitkay)
 - Twitter - [@codeitkay](https://twitter.com/codeitkay)
-- Instagram - [@codeit_kay] (https://www.instagram.com/codeit_kay/)
+- Instagram - [@codeit_kay](https://www.instagram.com/codeit_kay/)
