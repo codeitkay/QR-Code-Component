@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-qr-code-component-page-G1NhuR2fm)
+- Live Site URL: [Live Site URL](https://codeitkay.github.io/QR-Code-Component/)
 
 ## My process
 
